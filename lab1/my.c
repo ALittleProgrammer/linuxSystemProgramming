@@ -253,5 +253,6 @@ UList* copyOne(UList *head){
 }
 
 USER* randData(){
-    USER *
+    USER *temp=(USER*)malloc(sizeof(USER));
+    
 }
