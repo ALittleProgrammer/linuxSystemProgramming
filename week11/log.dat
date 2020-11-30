@@ -1,0 +1,6 @@
+child11 : pid = 11700 , ppid = 11697 , time = Mon Nov 30 19:22:35 2020
+ 
+child1 : pid = 11697 , ppid = 11696 , time = Mon Nov 30 19:22:35 2020
+ 
+parent : pid = 11696 , ppid = 6328 , time = Mon Nov 30 19:22:35 2020
+ 
